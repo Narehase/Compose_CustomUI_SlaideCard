@@ -3,6 +3,7 @@ class TypeMore {
     var img:Uri? = null
     var text:String? = null
     var title:String? = null
+    var day:String? = null
 }
 
 @Composable
